@@ -1,0 +1,43 @@
+nombre,referencia_interna,codigo_barras,precio_venta,costo,descripcion_corta
+Arroz blanco 1 lb,PROD-001,759873618689,63.55,13.73,Grano de arroz blanco premium.
+Frijol negro 1 lb,PROD-002,752140563900,62.94,11.45,Frijol negro seleccionado.
+Azúcar blanca 2 lb,PROD-003,759485717625,43.76,20.05,Azúcar refinada.
+Aceite vegetal 1 lt,PROD-004,758231421687,66.01,31.42,Aceite para cocinar.
+Sal de mesa 500 g,PROD-005,753760645980,9.81,8.65,Sal yodada.
+Harina de trigo 1 lb,PROD-006,753438517928,4.52,4.44,Harina para repostería.
+Café molido 250 g,PROD-007,753886224805,59.91,34.27,Café tostado 100% guatemalteco.
+Leche entera 1 lt,PROD-008,757513471209,41.37,24.12,Leche entera pasteurizada.
+Huevos docena,PROD-009,756150739661,83.22,46.91,Huevos frescos tipo A.
+Pan de caja unidad,PROD-010,755370148368,40.91,41.27,Pan de caja blanco.
+Pasta espagueti 500 g,PROD-011,756448841365,20.6,47.36,Pasta de trigo.
+Salsa de tomate 400 g,PROD-012,751904987392,50.89,8.37,Salsa de tomate natural.
+Atún en lata 170 g,PROD-013,757545812405,81.15,7.93,Atún en agua.
+Jabón de baño unidad,PROD-014,757480007661,75.78,35.61,Jabón de tocador.
+Papel higiénico 4 rollos,PROD-015,756288752319,76.66,25.08,Papel higiénico doble hoja.
+Detergente en polvo 1 kg,PROD-016,751106662965,3.79,25.35,Detergente para ropa.
+Refresco de cola 2 lt,PROD-017,757230968044,28.11,8.32,Bebida carbonatada.
+Agua embotellada 1 lt,PROD-018,756772264875,29.26,42.25,Agua purificada.
+Cereal de maíz 300 g,PROD-019,755302446468,64.68,42.2,Cereal para desayuno.
+Mantequilla 200 g,PROD-020,754978852801,61.61,45.23,Mantequilla con sal.
+Queso fresco 500 g,PROD-021,756539790381,33.84,20.56,Queso fresco artesanal.
+Tortillas de maíz paquete,PROD-022,753530494479,32.9,22.26,Tortillas frescas.
+Galletas dulces 200 g,PROD-023,755502277209,11.79,41.98,Galletas surtidas.
+Chocolate en barra 100 g,PROD-024,755018327971,23.82,14.39,Chocolate de mesa.
+Shampoo 400 ml,PROD-025,757489536623,18.97,19.61,Shampoo para cabello normal.
+Pasta dental 100 ml,PROD-026,759401665835,75.57,40.88,Pasta dental con flúor.
+Cepillo dental unidad,PROD-027,758004644135,77.94,47.12,Cepillo dental suave.
+Servilletas paquete,PROD-028,753358916945,62.15,3.9,Servilletas de papel.
+Fósforos caja,PROD-029,758440397198,40.25,38.0,Caja de fósforos de madera.
+Velas paquete,PROD-030,756524222670,7.49,46.45,Velas de parafina.
+Manteca vegetal 1 lb,PROD-031,751546797964,41.98,18.17,Manteca para repostería.
+Consomé de pollo 227 g,PROD-032,756573887740,63.73,48.85,Consomé en polvo.
+Mayonesa 400 g,PROD-033,756412384889,56.96,16.09,Mayonesa cremosa.
+Mostaza 250 g,PROD-034,752693796713,17.14,9.34,Mostaza amarilla.
+Vinagre blanco 500 ml,PROD-035,756239968573,77.36,49.83,Vinagre de uso general.
+Bicarbonato de sodio 250 g,PROD-036,757227532693,14.88,10.83,Bicarbonato multiusos.
+Suavizante de telas 1 lt,PROD-037,751389615843,31.37,5.92,Suavizante para ropa.
+Cloro 1 lt,PROD-038,756322008130,24.56,29.13,Blanqueador desinfectante.
+Papel toalla 2 rollos,PROD-039,754810716013,64.6,21.52,Papel toalla absorbente.
+Bolsas de basura paquete,PROD-040,753251285041,34.21,17.9,Bolsas resistentes 20 gal.
+COCA-ZERO,PROD-041,753251280047,24.21,17.9,COCA-ZERO
+LEGO STARWARS,PROD-042,753000280047,990.21,800,LEGO STARWARS
